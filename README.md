@@ -12,9 +12,9 @@ In addition, it also covers how to use
 [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) for scheduling
 periodic work. In this app it's used to setup a daily background data sync.
 
-## Screenshots
 
-![Screenshot1](screenshots/devbyte-homescreen.png)
+
+
 
 
 ## How to use this repo while taking the course
@@ -36,8 +36,8 @@ Access all branches from this tab.
 )
 
 
-![branchesdropdown](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590391a3_branches-dropdown-ud855/branches-dropdown-ud855.png
-)
+
+
 
 The branches are also accessible from the drop-down in the "Code" tab.
 
